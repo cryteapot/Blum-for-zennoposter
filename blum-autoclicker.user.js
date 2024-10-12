@@ -20,7 +20,7 @@ let GAME_SETTINGS = {
     autoClickPlay: false
 };
 
-let isGamePaused = false;
+let isGamePaused = true;
 
 try {
     let gameStats = {
